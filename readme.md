@@ -1,3 +1,10 @@
+
+Setup: Run
+
+  ```shell
+  pip install -r requirements.txt
+  ```
+
 Step 1: Download IMD-20 Real Life Manipulated Images from [Link](http://staff.utia.cas.cz/novozada/db/).
 
 step2: set the dataset path in  
